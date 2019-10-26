@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/customlogin/config/com.day.cq.auth.impl.LoginSelectorHandler"/>
+    <filter root="/apps/customlogin/config/org.apache.sling.engine.impl.auth.SlingAuthenticator" />
+    <filter root="/apps/customlogin/config.author.ginza" />
+    <filter root="/apps/customlogin/config.author.hongkong" />
+    <filter root="/apps/granite/core/components/login/login.jsp" />
+    <filter root="/apps/granite/core/content/login/clientlib/resources/bg/default/bg.css"/>
+    <filter root="/apps/granite/core/content/login/clientlib/resources/bg/author.ginza"/>
+    <filter root="/apps/granite/core/content/login/clientlib/resources/bg/author.hongkong"/>
+</workspaceFilter>
